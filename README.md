@@ -1,2 +1,2 @@
 # Mega-Git
-This is a Demo for Git &amp; Github Practices
+This is a Demo for Git &amp; Github Practices.
